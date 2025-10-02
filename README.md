@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h2>💫 About Me:</h2>
-  <p>I'm a second-year Computer Science student. I'm passionate about programming and new technologies. Outside of studies, I work on projects and experiment with code. In my free time, I enjoy reading comics and books. 🚀</p>
+  <p>I'm a third-year Computer Science student. I'm passionate about programming and new technologies. Outside of studies, I work on projects and experiment with code. In my free time, I enjoy reading comics and books. 🚀</p>
 </div>
 
 <div align="center">
