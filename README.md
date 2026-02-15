@@ -2,8 +2,6 @@
   
 # 👋 Witaj, jestem Tomasz!
 
-### 💻 Student Informatyki | Java Developer | Full-Stack
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Student+Informatyki+%7C+UwS+Siedlce;Java+%7C+Spring+Boot+%7C+Full-Stack;Pasjonat+programowania+i+technologii" alt="Typing SVG" />
 
 </div>
