@@ -75,12 +75,17 @@
 ## 📊 Statystyki GitHub
 
 <div align="center">
+
+<a href="https://github.com/Marvi217">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marvi217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvi217&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marvi217&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marvi217&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvi217&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marvi217&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
