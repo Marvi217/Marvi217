@@ -12,26 +12,20 @@
 
 ## 🚀 O mnie
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Marvi"
-        self.role = "Computer Science Student"
-        self.year = "III rok"
-        self.location = "Białystok, Polska 🇵🇱"
-        self.interests = ["Programming", "New Technologies", "Comics", "Books"]
-        
-    def current_focus(self):
-        return [
-            "🔨 Praca nad własnymi projektami",
-            "🧪 Eksperymenty z nowym kodem",
-            "📚 Ciągłe rozwijanie umiejętności",
-            "🎯 Odkrywanie najnowszych technologii"
-        ]
-    
-    def fun_fact(self):
-        return "Gdy nie koduję, zanurzam się w świecie komiksów! 📖"
-```
+> 🎓 **Student informatyki** na III roku  
+> 📍 **Lokalizacja:** Białystok, Polska 🇵🇱  
+> 💡 **Pasje:** Programowanie, nowe technologie, komiksy i książki  
+> 🔥 **Filozofia:** Ciągłe uczenie się i eksperymentowanie z kodem  
+
+### 🎯 Co aktualnie robię?
+
+- 🔨 **Projekty** - Pracuję nad własnymi pomysłami i rozwiązaniami
+- 🧪 **Eksperymenty** - Testuję nowy kod i technologie
+- 📈 **Rozwój** - Stale poszerzam swoje umiejętności
+- 🌟 **Odkrywanie** - Śledzę najnowsze trendy w IT
+
+### ⚡ Fun Fact
+*Gdy nie koduję, zanurzam się w świecie komiksów i książek!* 📖✨
 
 ---
 
@@ -76,12 +70,28 @@ class Developer:
 
 ---
 
-## 🎯 Obecne cele
+## 💼 Moja podróż
 
-- 🔭 Obecnie pracuję nad: **własnymi projektami i eksperymentami**
-- 🌱 Uczę się: **nowych technologii i frameworków**
-- 💡 Interesuję się: **innowacyjnymi rozwiązaniami w IT**
-- 📖 W wolnym czasie: **czytam komiksy i książki**
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 Obecnie
+- Praca nad własnymi projektami
+- Eksperymentowanie z nowym kodem
+- Rozwijanie umiejętności programistycznych
+
+</td>
+<td width="50%">
+
+### 🌱 Uczę się
+- Nowych technologii i frameworków
+- Best practices w programowaniu
+- Innowacyjnych rozwiązań w IT
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -98,7 +108,7 @@ class Developer:
 
 <div align="center">
   
-### ⚡ Fun Fact
+### 💭 Cytat na dziś
 *"Code is like humor. When you have to explain it, it's bad!"* 😄
 
 <img src="https://raw.githubusercontent.com/Marvi217/Marvi217/output/snake.svg" alt="Snake animation" />
